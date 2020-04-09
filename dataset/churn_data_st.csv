@@ -87,7 +87,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4445-ZJNMU,0,9,6,Month-to-month,Yes,99.3,918.75,No,918.75
 4808-YNLEU,0,35,4,One year,Yes,62.15,2215.45,No,2215.45
 1862-QRWPE,0,48,7,Two year,No,20.65,1057,No,1057
-2796-NNUFI,0,46,7,Two year,Yes,19.95,,No,
+2796-NNUFI,0,46,7,Two year,Yes,19.95,927.1,No,927.1
 3016-KSVCP,0,29,2,Month-to-month,No,33.75,1009.25,No,1009.25
 4767-HZZHQ,0,30,4,Month-to-month,No,82.05,2570.2,No,2570.2
 2424-WVHPL,1,1,3,Month-to-month,No,74.7,74.7,No,74.7
@@ -107,7 +107,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 6180-YBIQI,0,5,1,Month-to-month,No,24.3,100.2,No,100.2
 6728-DKUCO,0,72,7,One year,Yes,104.15,7303.05,No,7303.05
 9750-BOOHV,0,32,2,One year,No,30.15,927.65,No,927.65
-8597-CWYHH,0,43,5,One year,No,94.35,,No,
+8597-CWYHH,0,43,5,One year,No,94.35,3921.3,No,3921.3
 2848-YXSMW,0,72,7,Two year,No,19.4,1363.25,No,1363.25
 0486-HECZI,0,55,6,Month-to-month,Yes,96.75,5238.9,Yes,5238.9
 4549-ZDQYY,0,52,5,One year,No,57.95,3042.25,No,3042.25
@@ -440,7 +440,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 5886-VLQVU,0,35,5,Month-to-month,Yes,89.85,3161.2,No,3161.2
 3577-AMVUX,0,1,4,Month-to-month,No,55.05,55.05,No,55.05
 0771-WLCLA,0,16,8,Month-to-month,Yes,112.95,1882.55,No,1882.55
-5628-RKIFK,1,49,6,Month-to-month,No,101.55,,No,
+5628-RKIFK,1,49,6,Month-to-month,No,101.55,5070.4,No,5070.4
 0206-TBWLC,0,54,9,One year,Yes,114.65,6049.5,No,6049.5
 2937-FTHUR,0,18,5,Month-to-month,No,64.8,1166.7,No,1166.7
 1910-FMXJM,0,36,3,Month-to-month,No,80.4,2937.65,No,2937.65
@@ -487,7 +487,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 7971-HLVXI,0,72,4,Two year,Yes,84.5,6130.85,No,6130.85
 9094-AZPHK,0,15,6,Month-to-month,Yes,100.15,1415,No,1415
 3649-JPUGY,0,72,8,Two year,Yes,88.6,6201.95,No,6201.95
-4472-LVYGI,0,0,5,Two year,Yes,52.55,,No,
+4472-LVYGI,0,0,5,Two year,Yes,52.55,,No, 
 8372-JUXUI,0,1,3,Month-to-month,Yes,74.35,74.35,Yes,74.35
 3552-CTCYF,0,63,7,Two year,Yes,104.8,6597.25,No,6597.25
 6778-YSNIH,0,2,4,Month-to-month,Yes,59,114.15,No,114.15
@@ -698,7 +698,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 0078-XZMHT,0,72,8,Two year,Yes,85.15,6316.2,No,6316.2
 5896-NPFWW,0,3,3,Month-to-month,Yes,50.15,168.15,Yes,168.15
 9978-HYCIN,1,47,4,One year,Yes,84.95,4018.05,No,4018.05
-8338-QIUNR,0,72,6,Two year,Yes,66.5,4811.6,No,4811.6
+8338-QIUNR,0,72,6,Two year,Yes,66.5,,No,4811.6
 1525-LNLOJ,0,66,5,Two year,Yes,63.3,4189.7,No,4189.7
 9450-TRJUU,0,35,4,Month-to-month,No,83.15,2848.45,No,2848.45
 1766-GKNMI,0,29,4,Month-to-month,Yes,84.9,2516.2,No,2516.2
@@ -752,7 +752,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8224-IVVPA,0,27,4,Month-to-month,Yes,56.7,1652.95,No,1652.95
 9477-LGWQI,0,70,7,Two year,Yes,80.15,5600.15,No,5600.15
 1410-RSCMR,0,7,6,Month-to-month,Yes,71.35,515.75,No,515.75
-3115-CZMZD,0,0,7,Two year,No,20.25,,No,
+3115-CZMZD,0,0,7,Two year,No,20.25,,No, 
 0139-IVFJG,0,2,5,Month-to-month,No,90.35,190.5,No,190.5
 6683-VLCTZ,1,20,6,Month-to-month,Yes,98.55,1842.8,Yes,1842.8
 5730-DBDSI,0,66,7,Two year,No,19.7,1253.8,No,1253.8
@@ -935,10 +935,10 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4750-ZRXIU,1,4,4,Month-to-month,Yes,84.6,360.1,Yes,360.1
 4198-VFOEA,0,12,3,One year,Yes,33.6,435.45,No,435.45
 6630-UJZMY,1,4,4,Month-to-month,Yes,83.25,308.05,No,308.05
-5709-LVOEQ,0,0,7,Two year,No,80.85,,No,
+5709-LVOEQ,0,0,7,Two year,No,80.85,,No, 
 6400-BWQKW,0,6,4,Month-to-month,Yes,79.05,434.5,Yes,434.5
 2692-AQCPF,0,65,8,One year,Yes,108.05,7118.9,No,7118.9
-0347-UBKUZ,0,15,7,Month-to-month,No,19.9,320.45,No,320.45
+0347-UBKUZ,0,15,7,Month-to-month,No,19.9,,No,320.45
 0835-DUUIQ,0,24,7,One year,No,21.05,531.55,No,531.55
 0811-GSDTP,0,13,2,Month-to-month,No,30.15,382.2,No,382.2
 7567-ECMCM,0,24,3,Month-to-month,Yes,79.85,2001,No,2001
@@ -1036,7 +1036,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8146-QQKZH,0,71,7,Two year,No,81.85,5924.4,No,5924.4
 1767-CJKBA,0,66,8,Two year,No,25.1,1697.7,No,1697.7
 6445-TNRXS,0,68,9,Two year,Yes,114.7,7849.85,No,7849.85
-4581-LNWUM,0,13,4,Month-to-month,No,49.15,649.4,No,649.4
+4581-LNWUM,0,13,4,Month-to-month,No,49.15,,No,649.4
 4869-EPIUS,0,56,3,One year,Yes,80.9,4557.5,No,4557.5
 9948-YPTDG,0,38,4,Month-to-month,Yes,79.45,3013.05,Yes,3013.05
 1236-WFCDV,1,14,4,Month-to-month,No,90.45,1266.1,Yes,1266.1
@@ -1081,7 +1081,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 0455-XFASS,0,3,2,Month-to-month,Yes,69.55,200.2,No,200.2
 0301-KOBTQ,0,32,7,Two year,Yes,20.05,614.45,No,614.45
 1751-NCDLI,1,46,6,Month-to-month,Yes,98.85,4564.9,No,4564.9
-4367-NUYAO,0,0,8,Two year,No,25.75,,No,
+4367-NUYAO,0,0,8,Two year,No,25.75,,No, 
 9878-TNQGW,0,2,3,Month-to-month,Yes,80.95,171.15,Yes,171.15
 9170-ARBTB,0,52,7,One year,No,19.6,1012.4,No,1012.4
 4441-NIHPT,1,13,3,Month-to-month,Yes,74.3,940.35,Yes,940.35
@@ -1183,7 +1183,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8399-YNDCH,1,21,4,Month-to-month,Yes,60.05,1236.15,Yes,1236.15
 3164-YAXFY,0,57,5,Month-to-month,Yes,53.75,3196,No,3196
 0887-WBJVH,0,53,5,One year,Yes,93.45,4872.2,No,4872.2
-4660-IRIBM,0,18,5,Month-to-month,Yes,87.9,,No,
+4660-IRIBM,0,18,5,Month-to-month,Yes,87.9,1500.5,No,1500.5
 5673-FSSMF,0,1,4,Month-to-month,Yes,60.15,60.15,Yes,60.15
 7670-ZBPOQ,0,58,5,One year,Yes,61.05,3478.75,No,3478.75
 8089-UZWLX,1,71,6,Two year,No,104.05,7413.55,No,7413.55
@@ -1225,7 +1225,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 1618-CFHME,0,2,3,Month-to-month,Yes,75.9,143.35,Yes,143.35
 3165-HDOEW,0,1,2,Month-to-month,Yes,45.85,45.85,Yes,45.85
 6581-NQCBA,0,16,4,Month-to-month,Yes,49.95,810.2,Yes,810.2
-7115-IRDHS,0,72,8,Two year,No,24.65,,No,
+7115-IRDHS,0,72,8,Two year,No,24.65,1830.05,No,1830.05
 8496-DMZUK,0,30,6,One year,No,90.4,2820.65,No,2820.65
 2040-VZIKE,0,49,6,Month-to-month,Yes,100.85,4847.35,No,4847.35
 9068-VPWQQ,0,61,7,Two year,No,75.35,4729.3,No,4729.3
@@ -1339,7 +1339,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 6265-FRMTQ,0,31,7,Two year,No,20.4,609.1,No,609.1
 1934-SJVJK,0,1,7,Month-to-month,No,20.15,20.15,Yes,20.15
 3838-OZURD,0,66,7,Month-to-month,Yes,105,7133.25,Yes,7133.25
-1371-DWPAZ,0,0,6,Two year,No,56.05,,No,
+1371-DWPAZ,0,0,6,Two year,No,56.05,,No, 
 9269-CQOOL,0,3,3,Month-to-month,Yes,54.7,169.45,Yes,169.45
 2017-CCBLH,0,8,7,Two year,No,20,141.6,No,141.6
 7690-KPNCU,0,64,6,One year,Yes,73.05,4688.65,No,4688.65
@@ -1540,7 +1540,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 6326-MTTXK,0,8,6,Month-to-month,No,100.85,819.55,Yes,819.55
 5071-FBJFS,0,4,3,Month-to-month,No,50.3,217.1,No,217.1
 2796-UUZZO,0,63,4,Month-to-month,Yes,80.3,4896.35,No,4896.35
-2429-AYKKO,0,72,7,Two year,No,19.85,1434.1,No,1434.1
+2429-AYKKO,0,72,7,Two year,No,19.85,,No,1434.1
 9798-OPFEM,0,46,7,Two year,Yes,21.1,937.1,No,937.1
 0330-IVZHA,0,5,2,Month-to-month,No,69.95,330.15,Yes,330.15
 3794-NFNCH,0,30,3,Month-to-month,Yes,50,1474.9,No,1474.9
@@ -1910,10 +1910,10 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8232-UTFOZ,0,69,7,Two year,No,19.95,1399.35,No,1399.35
 3750-YHRYO,0,7,7,One year,No,20.65,150,No,150
 6637-KYRCV,0,5,2,Month-to-month,Yes,30.5,167.2,No,167.2
-5668-MEISB,0,72,8,Two year,No,106.1,,No,
+5668-MEISB,0,72,8,Two year,No,106.1,7657.4,No,7657.4
 0129-QMPDR,0,44,7,One year,Yes,20.5,865.05,No,865.05
 7188-CBBBA,0,65,6,One year,Yes,95.5,6153.85,No,6153.85
-5356-CSVSQ,0,3,5,Month-to-month,No,64.6,174.2,No,174.2
+5356-CSVSQ,0,3,5,Month-to-month,No,64.6,,No,174.2
 3221-CJMSG,0,24,3,Month-to-month,Yes,51.1,1269.6,No,1269.6
 4720-VSTSI,0,44,5,Month-to-month,Yes,84.8,3862.55,Yes,3862.55
 3219-JQRSL,1,72,9,Two year,No,89.1,6352.4,No,6352.4
@@ -2036,7 +2036,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 9720-JJJOR,0,41,5,One year,Yes,60.3,2511.3,No,2511.3
 8100-HZZLJ,0,43,5,Month-to-month,Yes,63.95,2737.05,No,2737.05
 8775-ERLNB,1,1,3,Month-to-month,No,74.3,74.3,No,74.3
-8309-IEYJD,1,1,2,Month-to-month,Yes,70.6,,No,
+8309-IEYJD,1,1,2,Month-to-month,Yes,70.6,70.6,No,70.6
 9172-JITSM,0,26,4,Month-to-month,Yes,90.8,2361.8,Yes,2361.8
 6298-QDFNH,0,22,4,Month-to-month,Yes,79.35,1730.35,Yes,1730.35
 7398-HPYZQ,0,71,9,Two year,No,90.55,6404,No,6404
@@ -2211,7 +2211,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4365-MSDYN,0,8,7,Month-to-month,Yes,19.55,161.15,No,161.15
 7036-TYDEC,0,69,7,Two year,No,104,7028.5,No,7028.5
 5802-ADBRC,0,50,7,One year,Yes,104.4,5232.9,No,5232.9
-8076-FEZKJ,0,10,7,One year,No,19.5,,No,
+8076-FEZKJ,0,10,7,One year,No,19.5,225.85,No,225.85
 5197-YPYBZ,0,12,8,Two year,No,25.25,274.7,No,274.7
 8337-MSSXB,0,14,4,Month-to-month,Yes,86.3,1180.95,Yes,1180.95
 4312-GVYNH,0,70,5,Two year,Yes,49.85,3370.2,No,3370.2
@@ -2544,7 +2544,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4826-DXMUP,0,35,5,One year,Yes,72.1,2495.15,No,2495.15
 0952-KMEEH,0,13,6,Month-to-month,No,98.15,1230.25,Yes,1230.25
 7285-KLOTR,0,12,7,One year,No,78.85,876.75,No,876.75
-0654-PQKDW,0,62,6,One year,Yes,70.75,,No,
+0654-PQKDW,0,62,6,One year,Yes,70.75,4263.45,No,4263.45
 7175-NTIXE,0,25,6,Month-to-month,Yes,76.15,1992.95,No,1992.95
 7963-SHNDT,0,52,4,Two year,No,39.1,1982.1,No,1982.1
 9796-BPKIW,1,8,2,Month-to-month,Yes,69.95,562.7,No,562.7
@@ -2592,7 +2592,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4526-ZJJTM,1,25,5,Month-to-month,No,88.4,2191.15,No,2191.15
 8384-FZBJK,0,57,6,Month-to-month,Yes,100.6,5611.7,No,5611.7
 3750-RNQKR,0,12,7,Month-to-month,No,19.45,246.25,No,246.25
-0962-CQPWQ,0,62,7,Two year,No,20.3,1296.15,No,1296.15
+0962-CQPWQ,0,62,7,Two year,No,20.3,,No,1296.15
 3096-YXENJ,0,65,8,Two year,Yes,107.65,7082.85,No,7082.85
 1265-BCFEO,0,71,7,Two year,Yes,80.45,5662.25,No,5662.25
 5837-LXSDN,0,21,4,One year,Yes,58.85,1215.45,No,1215.45
@@ -2992,7 +2992,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 2309-OSFEU,0,10,2,Month-to-month,Yes,33.9,298.45,Yes,298.45
 2207-QPJED,1,37,5,Month-to-month,No,90,3371.75,No,3371.75
 4177-JPDFU,0,12,3,Month-to-month,No,34,442.45,No,442.45
-2239-CFOUJ,0,1,7,One year,No,20.4,,No,
+2239-CFOUJ,0,1,7,One year,No,20.4,20.4,No,20.4
 8046-DNVTL,0,62,4,Two year,Yes,38.6,2345.55,No,2345.55
 2209-XADXF,0,1,1,Month-to-month,No,25.25,25.25,No,25.25
 6620-JDYNW,0,18,5,Month-to-month,Yes,60.6,1156.35,No,1156.35
@@ -3113,7 +3113,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8809-RIHDD,0,72,7,Two year,Yes,103.4,7372.65,Yes,7372.65
 8809-XKHMD,0,72,7,Two year,Yes,100.55,7325.1,No,7325.1
 0396-YCHWO,0,36,5,Month-to-month,Yes,95.4,3474.2,No,3474.2
-0867-LDTTC,0,5,6,Month-to-month,No,75.15,,No,
+0867-LDTTC,0,5,6,Month-to-month,No,75.15,392.65,No,392.65
 4822-NGOCH,0,13,5,Month-to-month,Yes,84.45,1058.6,Yes,1058.6
 9391-DXGGG,1,44,5,One year,No,89.15,3990.75,No,3990.75
 9844-FELAJ,1,70,8,One year,Yes,107.9,7475.85,No,7475.85
@@ -3276,7 +3276,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 2874-YXVVA,0,34,7,Month-to-month,Yes,105.1,3634.8,No,3634.8
 1245-HARPS,0,14,7,Two year,No,20.4,292.4,No,292.4
 4210-QFJMF,0,4,3,Month-to-month,Yes,79.15,317.25,Yes,317.25
-4323-ELYYB,0,13,7,One year,No,20,,No,
+4323-ELYYB,0,13,7,One year,No,20,218.55,No,218.55
 4293-ETKAP,0,65,7,Two year,Yes,79.4,5071.9,No,5071.9
 6064-PUPMC,0,23,4,One year,No,57.2,1423.35,No,1423.35
 6504-VBLFL,0,55,5,Two year,No,58.6,3068.6,No,3068.6
@@ -3313,7 +3313,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 6137-MFAJN,0,48,4,Month-to-month,Yes,44.8,2104.55,No,2104.55
 9122-UMROB,0,1,7,Month-to-month,No,20.3,20.3,No,20.3
 4232-JGKIY,0,1,7,Month-to-month,No,19.2,19.2,No,19.2
-2402-TAIRZ,0,37,4,One year,No,80.05,3019.1,No,3019.1
+2402-TAIRZ,0,37,4,One year,No,80.05,,No,3019.1
 9659-ZTWSM,1,66,8,One year,Yes,107.35,7051.95,No,7051.95
 9139-TWBAS,0,26,5,One year,No,47.85,1190.5,No,1190.5
 6685-GBWJZ,0,63,6,One year,No,70.8,4448.8,No,4448.8
@@ -3330,7 +3330,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 1640-PLFMP,0,1,2,Month-to-month,Yes,70.25,70.25,No,70.25
 5366-OBVMR,0,18,3,Month-to-month,Yes,50.3,908.75,No,908.75
 8276-MQBYC,1,51,6,Month-to-month,Yes,97.8,4913.3,Yes,4913.3
-7644-OMVMY,0,0,7,Two year,No,19.85,,No,
+7644-OMVMY,0,0,7,Two year,No,19.85,,No, 
 7593-XFKDI,0,1,2,Month-to-month,No,46.3,46.3,Yes,46.3
 4573-JKNAE,0,12,7,Two year,No,19.35,212.3,No,212.3
 0337-CNPZE,0,41,7,Month-to-month,Yes,106.3,4443.45,Yes,4443.45
@@ -3825,7 +3825,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 9065-ZCPQX,0,72,8,Two year,No,78.85,5763.15,No,5763.15
 6402-EJMWF,0,4,3,Month-to-month,Yes,55.3,238.5,No,238.5
 3620-EHIMZ,0,52,7,Two year,No,19.35,1031.7,No,1031.7
-3213-VVOLG,0,0,8,Two year,No,25.35,,No,
+3213-VVOLG,0,0,8,Two year,No,25.35,,No, 
 6870-ECSHE,0,2,7,One year,No,20.45,34.8,No,34.8
 8747-UDCOI,0,65,7,Two year,No,19.35,1319.95,No,1319.95
 8374-XGEJJ,1,43,6,Month-to-month,Yes,101,4388.4,Yes,4388.4
@@ -4035,14 +4035,14 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 5196-WPYOW,0,67,5,One year,No,60.05,3994.05,No,3994.05
 4608-LCIMN,0,8,2,Month-to-month,No,44.65,369.15,No,369.15
 1485-YDHMM,0,52,6,Month-to-month,Yes,93.25,4631.7,No,4631.7
-4054-CUMIA,0,18,7,Month-to-month,Yes,20.25,401.95,No,401.95
+4054-CUMIA,0,18,7,Month-to-month,Yes,20.25,,No,401.95
 0603-TPMIB,0,59,8,Two year,No,25.45,1534.05,No,1534.05
 2525-GVKQU,0,60,7,Two year,No,20.6,1093,No,1093
 8161-QYMTT,0,7,5,Month-to-month,Yes,94.1,701.3,No,701.3
 9581-GVBXT,0,59,3,One year,No,34.8,1980.3,No,1980.3
 5862-BRIXZ,0,46,6,Two year,Yes,60.75,2893.4,No,2893.4
 5404-GGUKR,0,5,3,Month-to-month,Yes,51.35,262.3,No,262.3
-3308-JSGML,1,59,6,Two year,Yes,64.05,3886.85,No,3886.85
+3308-JSGML,1,59,6,Two year,Yes,64.05,,No,3886.85
 2126-GSEGL,0,70,8,Two year,Yes,84.8,5917.55,No,5917.55
 3677-TNKIO,0,14,2,Month-to-month,Yes,71,914,Yes,914
 0440-QEXBZ,0,44,3,Month-to-month,Yes,50.15,2139.1,No,2139.1
@@ -4094,7 +4094,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 0670-KDOMA,0,1,7,Month-to-month,Yes,20.25,20.25,No,20.25
 2476-YGEFM,0,29,3,Month-to-month,Yes,76,2215.25,No,2215.25
 8687-BAFGU,0,1,3,Month-to-month,No,74,74,No,74
-0641-EVBOJ,0,3,4,Month-to-month,Yes,82.3,,No,
+0641-EVBOJ,0,3,4,Month-to-month,Yes,82.3,214.4,No,214.4
 0829-XXPLX,0,20,5,Month-to-month,Yes,89.4,1871.15,No,1871.15
 9974-JFBHQ,0,64,6,Month-to-month,Yes,99.15,6171.2,No,6171.2
 5356-RHIPP,0,1,7,Month-to-month,Yes,20.2,20.2,Yes,20.2
@@ -4157,7 +4157,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 6904-JLBGY,1,72,9,Two year,Yes,117.35,8436.25,No,8436.25
 2465-BLLEU,0,1,7,Month-to-month,Yes,19.75,19.75,No,19.75
 1685-VAYJF,0,11,2,Month-to-month,No,45.2,492,No,492
-8874-EJNSR,0,39,8,Two year,No,25.2,987.95,No,987.95
+8874-EJNSR,0,39,8,Two year,No,25.2,,No,987.95
 6917-YACBP,1,59,6,Month-to-month,Yes,89.75,5496.9,No,5496.9
 5049-MUBWG,0,26,6,One year,No,75,1908.35,No,1908.35
 4223-WOZCM,1,2,3,Month-to-month,No,49.95,107.1,No,107.1
@@ -4379,7 +4379,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8212-CRQXP,0,22,3,Month-to-month,Yes,80,1706.45,No,1706.45
 6980-CDGFC,0,67,7,One year,Yes,20.85,1327.4,No,1327.4
 7691-XVTZH,0,68,5,Two year,Yes,89.95,5974.3,No,5974.3
-2520-SGTTA,0,0,7,Two year,No,20,,No,
+2520-SGTTA,0,0,7,Two year,No,20,,No, 
 7481-ATQQS,1,49,5,Month-to-month,Yes,90.85,4515.85,Yes,4515.85
 2277-VWCNI,1,4,3,Month-to-month,No,48.75,179.85,No,179.85
 1088-CNNKB,0,63,8,One year,No,80,5040.2,No,5040.2
@@ -4525,7 +4525,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 9518-XXBXE,1,10,3,Month-to-month,No,75.3,720.45,No,720.45
 3934-HXCFZ,0,23,7,Month-to-month,Yes,99.25,2186.4,Yes,2186.4
 6578-KRMAW,0,32,6,Month-to-month,Yes,93.4,2979.3,No,2979.3
-4860-IJUDE,0,13,3,Month-to-month,Yes,73.75,,No,
+4860-IJUDE,0,13,3,Month-to-month,Yes,73.75,956.65,No,956.65
 7666-WKRON,0,39,4,Two year,Yes,80.45,3201.55,Yes,3201.55
 9688-YGXVR,0,44,5,Month-to-month,Yes,88.15,3973.2,No,3973.2
 0423-UDIJQ,1,9,3,Month-to-month,No,49.2,447.9,No,447.9
@@ -4815,7 +4815,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8631-WUXGY,0,46,6,Month-to-month,Yes,99.8,4391.25,No,4391.25
 7270-BDIOA,0,22,5,Month-to-month,Yes,90,1993.8,Yes,1993.8
 9565-JSNFM,0,38,2,One year,Yes,70.45,2597.6,Yes,2597.6
-5906-DVAPM,0,55,7,One year,Yes,75,4213.9,No,4213.9
+5906-DVAPM,0,55,7,One year,Yes,75,,No,4213.9
 6654-QGBZZ,0,1,7,Month-to-month,No,19.9,19.9,No,19.9
 8348-JLBUG,1,64,4,One year,No,80.3,5017.7,No,5017.7
 0607-DAAHE,0,53,7,Two year,No,19.75,1052.35,Yes,1052.35
@@ -4890,7 +4890,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 4393-RYCRE,0,44,7,One year,Yes,106.05,4510.8,No,4510.8
 9746-MDMBK,0,47,9,One year,Yes,113.45,5317.8,No,5317.8
 3162-ZJZFU,0,53,5,Month-to-month,Yes,92.55,4779.45,No,4779.45
-8404-GFGCZ,0,4,5,Month-to-month,No,65.6,250.1,No,250.1
+8404-GFGCZ,0,4,5,Month-to-month,No,65.6,,No,250.1
 8875-AKBYH,1,20,4,Month-to-month,Yes,84.35,1745.2,No,1745.2
 4432-ADRLB,0,2,2,Month-to-month,No,44.65,74.9,Yes,74.9
 0533-UCAAU,1,57,6,One year,Yes,71.1,4140.1,No,4140.1
@@ -4914,7 +4914,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 5281-BUZGT,1,36,5,Month-to-month,Yes,90.85,3186.7,Yes,3186.7
 4994-OBRSZ,0,14,7,Two year,No,76.1,1054.8,No,1054.8
 0562-FGDCR,0,72,7,Two year,No,74.55,5430.65,No,5430.65
-2436-QBZFP,0,22,3,Month-to-month,No,39.2,,No,
+2436-QBZFP,0,22,3,Month-to-month,No,39.2,849.9,No,849.9
 3420-YJLQT,0,2,4,Month-to-month,No,79.55,151.75,No,151.75
 6040-CGACY,0,15,7,Month-to-month,No,19.6,299.4,No,299.4
 6582-PLFUU,0,51,7,Two year,No,19.55,1086.75,No,1086.75
@@ -5199,7 +5199,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 7566-DSRLQ,0,72,8,Two year,Yes,110.15,7998.8,No,7998.8
 0643-OKLRP,1,47,4,Month-to-month,No,80.35,3825.85,Yes,3825.85
 7245-JMTTQ,0,51,8,One year,Yes,111.5,5703.25,No,5703.25
-6050-IJRHS,0,70,7,One year,Yes,106.5,,No,
+6050-IJRHS,0,70,7,One year,Yes,106.5,7397,No,7397
 6202-JVYEU,0,9,7,One year,Yes,19.9,164.6,No,164.6
 8591-TKMZH,0,59,8,Two year,Yes,111.1,6555.2,No,6555.2
 0734-OXWBT,0,3,5,Month-to-month,No,70.7,225.65,No,225.65
@@ -5217,7 +5217,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 7845-URHJN,0,8,7,Month-to-month,No,20.15,156.25,Yes,156.25
 3034-ZBEQN,0,48,3,One year,No,34.7,1604.5,Yes,1604.5
 5018-HEKFO,0,10,8,Month-to-month,Yes,24.5,270.15,No,270.15
-2923-ARZLG,0,0,7,One year,Yes,19.7,,No,
+2923-ARZLG,0,0,7,One year,Yes,19.7,,No, 
 3976-NLDEZ,0,1,7,Month-to-month,No,20.6,20.6,No,20.6
 2282-YGNOR,0,29,5,One year,No,58,1734.5,No,1734.5
 5336-UFNZP,1,65,7,One year,Yes,107.45,7047.5,No,7047.5
@@ -5391,7 +5391,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 9701-CDXHR,0,51,2,Month-to-month,No,69.15,3649.6,No,3649.6
 7450-NWRTR,1,12,6,Month-to-month,Yes,99.45,1200.15,Yes,1200.15
 8124-NZVGJ,0,6,4,One year,Yes,49.25,255.6,No,255.6
-2162-FRZAA,0,63,4,Two year,No,39.35,2395.05,No,2395.05
+2162-FRZAA,0,63,4,Two year,No,39.35,,No,2395.05
 5376-DEQCP,0,1,2,Month-to-month,Yes,70.6,70.6,Yes,70.6
 5118-MUEYH,0,48,7,Month-to-month,Yes,105.1,5083.55,No,5083.55
 9095-HFAFX,0,5,3,Month-to-month,Yes,81,389.6,Yes,389.6
@@ -5591,7 +5591,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 7253-UVNDW,0,46,4,Two year,No,54.35,2460.15,Yes,2460.15
 0487-VVUVK,0,25,7,Month-to-month,Yes,19.15,477.6,No,477.6
 7228-OMTPN,0,4,4,Month-to-month,Yes,88.45,370.65,Yes,370.65
-5063-IUOKK,0,13,7,Two year,No,19.75,265.75,No,265.75
+5063-IUOKK,0,13,7,Two year,No,19.75,,No,265.75
 4508-OEBEY,0,31,7,One year,Yes,75.5,2424.45,No,2424.45
 0027-KWYKW,0,23,4,Month-to-month,Yes,83.75,1849.95,No,1849.95
 2308-STERM,0,2,7,Month-to-month,No,19.4,61.05,No,61.05
@@ -6346,7 +6346,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 9286-DOJGF,1,38,3,Month-to-month,Yes,74.95,2869.85,Yes,2869.85
 6048-QBXKL,1,2,4,Month-to-month,Yes,56.55,118.25,No,118.25
 9661-MHUMO,1,1,3,Month-to-month,Yes,49.25,49.25,Yes,49.25
-7718-RXDGG,0,15,2,Month-to-month,Yes,68.6,,No,
+7718-RXDGG,0,15,2,Month-to-month,Yes,68.6,1108.6,No,1108.6
 1025-FALIX,0,26,2,Month-to-month,Yes,69.05,1815.65,No,1815.65
 3451-VAWLI,0,35,7,Two year,No,19.7,730.4,No,730.4
 3407-QGWLG,0,3,7,Month-to-month,Yes,20.05,75.45,No,75.45
@@ -6362,7 +6362,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 8073-IJDCM,0,1,7,Month-to-month,Yes,20.3,20.3,Yes,20.3
 5309-TAIKL,0,7,5,Month-to-month,No,62.8,418.3,No,418.3
 6856-RAURS,0,2,3,Month-to-month,Yes,74.9,136.05,No,136.05
-8778-LMWTJ,0,9,3,Month-to-month,Yes,74.85,708.2,No,708.2
+8778-LMWTJ,0,9,3,Month-to-month,Yes,74.85,,No,708.2
 9717-IOAAF,0,27,8,Two year,Yes,25.85,788.55,No,788.55
 8884-ADFVN,1,7,6,Month-to-month,Yes,101.95,700.85,Yes,700.85
 2845-KDHVX,0,64,6,Two year,Yes,68.3,4378.8,No,4378.8
@@ -6471,7 +6471,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 7945-PRBVF,0,35,7,Two year,No,21.45,705.45,No,705.45
 4544-RXFMG,0,8,2,One year,Yes,43.45,345.5,No,345.5
 0859-YGKFW,0,18,7,One year,No,20.05,345.9,No,345.9
-1150-FTQGN,0,60,6,One year,No,94.15,5811.8,No,5811.8
+1150-FTQGN,0,60,6,One year,No,94.15,,No,5811.8
 9223-UCPVT,0,1,5,Month-to-month,No,94.4,94.4,Yes,94.4
 7196-LIWRH,0,6,7,Two year,No,19.55,124.45,No,124.45
 5448-VWNAM,0,19,7,Month-to-month,Yes,75.9,1375.6,No,1375.6
@@ -6583,7 +6583,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 2453-SAFNS,1,54,6,One year,No,72.1,3886.05,No,3886.05
 9558-IHEZX,0,71,8,Two year,Yes,106.75,7283.25,No,7283.25
 9617-UDPEU,0,22,7,One year,Yes,19.25,412.55,No,412.55
-6340-DACFT,0,50,7,Two year,No,20.55,1070.25,No,1070.25
+6340-DACFT,0,50,7,Two year,No,20.55,,No,1070.25
 4955-VCWBI,0,43,7,One year,No,20,817.95,No,817.95
 6813-GZQCG,0,45,8,Two year,Yes,24.65,1171.3,No,1171.3
 7426-GSWPO,1,64,7,Month-to-month,Yes,103.5,6548.65,No,6548.65
@@ -6669,7 +6669,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 0872-NXJYS,0,9,3,Month-to-month,Yes,79.55,723.4,Yes,723.4
 2832-KJCRD,0,38,7,Month-to-month,Yes,103.65,3988.5,No,3988.5
 3588-WSTTJ,1,35,6,Month-to-month,Yes,99.05,3554.6,No,3554.6
-4075-WKNIU,0,0,7,Two year,No,73.35,,No,
+4075-WKNIU,0,0,7,Two year,No,73.35,,No, 
 5090-EMGTC,0,59,6,Two year,Yes,100.05,6034.85,No,6034.85
 2346-CZYIL,0,27,7,Two year,No,20.35,531.6,No,531.6
 3798-EPWRR,1,2,2,Month-to-month,No,43.95,85.1,No,85.1
@@ -6753,7 +6753,7 @@ customerID,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,MonthlyCh
 1241-FPMOF,0,52,7,Two year,No,19.65,1025.05,No,1025.05
 9928-BZVLZ,0,12,5,Two year,No,49.85,552.1,No,552.1
 4114-QMKVN,0,56,6,One year,No,68.75,3815.4,No,3815.4
-2775-SEFEE,0,0,6,Two year,Yes,61.9,,No,
+2775-SEFEE,0,0,6,Two year,Yes,61.9,,No, 
 9003-CPATH,0,42,4,Month-to-month,No,79.9,3313.4,No,3313.4
 1754-GKYPY,1,22,4,Month-to-month,Yes,89.75,1938.9,No,1938.9
 5294-CDGWY,0,51,6,One year,No,59.3,3014.65,Yes,3014.65
