@@ -430,7 +430,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 4360-PNRQB,Male,0,18,3,Month-to-month,Yes,75.6,1395.05,No
 6152-ONASV,Female,0,68,5,One year,No,58.25,3975.7,No
 9063-ZGTUY,Female,0,61,7,Month-to-month,Yes,19.4,1182.55,Yes
-7781-HVGMK,Female,0,72,7,Two year,Yes,65.2,4784.45,No
+7781-HVGMK,Female,0,72,7,Two year,Yes,65.2,,No
 2181-UAESM,Male,0,2,4,Month-to-month,No,53.45,119.5,No
 2957-LOLHO,Male,0,12,2,Month-to-month,Yes,45.4,518.9,Yes
 6048-NJXHX,Male,0,41,7,Two year,Yes,19.75,899.45,No
@@ -1260,7 +1260,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 5529-GIBVH,Female,0,47,7,Two year,No,20.15,1046.2,No
 4187-CINZD,Female,1,46,5,One year,No,95.25,4424.2,Yes
 9992-UJOEL,Male,0,2,3,Month-to-month,Yes,50.3,92.75,No
-4741-WWJQZ,Female,0,2,4,Month-to-month,Yes,80.15,194.55,No
+4741-WWJQZ,Female,0,2,4,Month-to-month,Yes,80.15,,No
 6625-UTXEW,Female,0,12,3,Month-to-month,Yes,51.25,612.1,No
 6818-WOBHJ,Female,1,68,5,Month-to-month,Yes,89.6,6127.6,Yes
 6244-BESBM,Male,0,69,5,Two year,Yes,95.2,6671.7,No
@@ -1286,7 +1286,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 8711-LOBKY,Male,0,59,7,Two year,No,19.85,1188.25,No
 9134-CEQMF,Male,1,7,4,Month-to-month,Yes,89.5,676.7,Yes
 8985-OOPOS,Female,0,1,6,One year,No,74.1,74.1,No
-8800-ZKRFW,Female,0,30,8,Month-to-month,Yes,107.5,3242.5,No
+8800-ZKRFW,Female,0,30,8,Month-to-month,Yes,107.5,,No
 2616-FLVQC,Male,0,64,7,Two year,No,19.55,1240.15,No
 9968-FFVVH,Male,0,63,7,One year,No,68.8,4111.35,No
 3108-PCCGG,Male,1,72,8,Two year,No,84.45,5899.85,No
@@ -1486,7 +1486,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 2277-BKJKN,Female,1,71,6,Two year,Yes,99.2,7213.75,No
 9809-IMGCQ,Male,1,22,5,Month-to-month,Yes,96.7,2082.95,Yes
 5208-HFSBT,Female,0,2,4,Month-to-month,Yes,55.05,102.75,Yes
-5035-PGZXH,Female,0,56,7,One year,Yes,106.8,5914.4,No
+5035-PGZXH,Female,0,56,7,One year,Yes,106.8,,No
 8695-WDYEA,Male,0,1,3,Month-to-month,No,51.25,51.25,No
 6543-JXSOO,Female,0,23,5,One year,Yes,57.75,1282.85,No
 8016-ZMGMO,Female,1,66,6,One year,Yes,70.85,4738.85,No
@@ -1845,7 +1845,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 3173-WSSUE,Female,0,71,7,Two year,No,19.7,1415.85,No
 1265-HVPZB,Male,0,59,6,One year,No,66.4,3958.2,No
 4115-UMJFQ,Male,0,69,3,One year,Yes,35.75,2492.25,No
-7369-TRPFD,Male,0,19,7,One year,No,18.8,279.2,No
+7369-TRPFD,Male,0,19,7,One year,No,18.8,,No
 1098-KFQEC,Female,0,55,7,Two year,No,19.4,1083,No
 7190-XHTWJ,Female,0,38,7,One year,No,19.3,755.5,No
 0621-TWIEM,Male,0,10,2,Month-to-month,Yes,45.55,402.6,Yes
@@ -1907,7 +1907,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 1022-RKXDR,Female,0,41,8,One year,Yes,24.85,962.25,No
 2361-FJWNO,Male,0,40,3,One year,No,36,1382.9,No
 2272-UOINI,Female,0,7,7,Month-to-month,Yes,78.5,571.05,No
-8232-UTFOZ,Male,0,69,7,Two year,No,19.95,1399.35,No
+8232-UTFOZ,Male,0,69,7,Two year,No,19.95,,No
 3750-YHRYO,Male,0,7,7,One year,No,20.65,150,No
 6637-KYRCV,Female,0,5,2,Month-to-month,Yes,30.5,167.2,No
 5668-MEISB,Female,0,72,8,Two year,No,106.1,7657.4,No
@@ -2072,7 +2072,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 8624-GIOUT,Female,0,49,5,Month-to-month,Yes,59.75,2934.3,Yes
 3392-EHMNK,Female,0,67,6,Two year,No,94.1,6302.8,No
 5986-WWXDV,Male,0,39,7,One year,No,19.35,779.2,No
-3061-BCKYI,Male,0,14,7,Month-to-month,No,19.9,283.75,No
+3061-BCKYI,Male,0,14,7,Month-to-month,No,19.9,,No
 6179-GJPSO,Female,1,43,7,Month-to-month,Yes,108.15,4600.7,Yes
 7901-TBKJX,Male,1,56,6,Month-to-month,Yes,101.05,5594,No
 7228-PAQPD,Female,0,14,4,One year,No,59.1,772.85,No
@@ -2150,7 +2150,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 1345-GKDZZ,Male,0,6,7,Month-to-month,No,19.55,128.6,No
 2014-MKGMH,Female,0,46,6,One year,Yes,101.1,4674.4,No
 5628-FCGYG,Male,0,21,4,Month-to-month,Yes,84.1,1737.45,No
-2560-WBWXF,Male,0,68,8,Two year,Yes,24.15,1498.85,No
+2560-WBWXF,Male,0,68,8,Two year,Yes,24.15,,No
 0248-IPDFW,Female,0,1,3,Month-to-month,Yes,50.1,50.1,No
 7978-DKUQH,Female,0,25,3,Month-to-month,Yes,74.6,1797.75,No
 4335-UPJSI,Female,0,24,7,Two year,No,19.75,498.1,No
@@ -2242,7 +2242,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 3398-GCPMU,Female,1,72,9,Two year,Yes,89.55,6448.85,No
 2908-WGAXL,Female,0,56,8,Two year,Yes,24.95,1468.9,No
 3378-AJRAO,Male,0,44,8,One year,No,24.85,1013.6,No
-1013-QCWAM,Female,1,66,6,Month-to-month,Yes,100.8,6690.75,No
+1013-QCWAM,Female,1,66,6,Month-to-month,Yes,100.8,,No
 0866-QLSIR,Female,0,34,6,One year,Yes,64.4,2088.75,Yes
 6050-FFXES,Female,0,69,7,Two year,No,105.35,7240.65,No
 7181-BQYBV,Female,0,1,7,Month-to-month,Yes,102.45,102.45,Yes
@@ -2320,7 +2320,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 6463-HHXJR,Female,0,71,7,Two year,No,100.5,7030.65,No
 7928-VJYAB,Male,0,11,4,Month-to-month,No,90.6,1020.2,No
 1187-WILMM,Male,0,63,9,Two year,Yes,89.4,5597.65,No
-9776-OJUZI,Female,1,65,6,Month-to-month,Yes,95.45,6223.3,No
+9776-OJUZI,Female,1,65,6,Month-to-month,Yes,95.45,,No
 1306-RPWXZ,Female,0,49,7,Two year,No,20.45,1024.65,No
 8949-JTMAY,Female,0,29,6,Month-to-month,Yes,98.6,2933.2,Yes
 2774-LVQUS,Female,1,15,5,Month-to-month,Yes,83.05,1258.3,Yes
@@ -2440,7 +2440,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 7089-IVVAZ,Female,0,8,7,Month-to-month,Yes,103.35,847.3,Yes
 8884-MRNSU,Male,0,17,7,One year,No,19.9,329.75,No
 2171-UDMFD,Male,0,32,7,Month-to-month,Yes,19.45,674.55,No
-9050-IKDZA,Female,1,2,3,Month-to-month,No,81.5,162.55,No
+9050-IKDZA,Female,1,2,3,Month-to-month,No,81.5,,No
 2205-YMZZJ,Male,1,7,4,Month-to-month,Yes,84.8,546.95,Yes
 9802-CAQUT,Female,0,72,8,Two year,No,109.55,7887.25,No
 1254-IZEYF,Female,1,31,6,Month-to-month,Yes,99.95,3186.65,Yes
@@ -2476,7 +2476,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 5630-IXDXV,Female,0,47,7,Month-to-month,Yes,106.35,4849.1,No
 0320-DWVTU,Female,0,53,7,Two year,No,99.5,5424.25,No
 9135-MGVPY,Male,0,69,8,Two year,Yes,84.7,5878.9,No
-1212-GLHMD,Male,0,3,4,Month-to-month,Yes,86.05,244.85,No
+1212-GLHMD,Male,0,3,4,Month-to-month,Yes,86.05,,No
 7878-JGDKK,Male,0,4,2,Month-to-month,No,44.55,220.75,No
 1088-AUUZZ,Male,0,56,7,Two year,Yes,75.85,4261.2,No
 0397-GZBBC,Male,1,59,5,Month-to-month,Yes,93.85,5574.75,Yes
@@ -3864,7 +3864,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 5854-KSRBJ,Male,0,70,8,Two year,No,25.4,1782.05,No
 0365-BZUWY,Male,0,17,7,Month-to-month,Yes,102.55,1742.5,No
 4817-VYYWS,Female,0,30,6,Month-to-month,Yes,100.2,2983.8,Yes
-5701-SVCWR,Female,0,1,8,Month-to-month,No,24,24,No
+5701-SVCWR,Female,0,1,8,Month-to-month,No,24,,No
 3129-AAQOU,Female,0,19,8,Two year,No,25.6,485.9,No
 4922-CVPDX,Female,0,26,6,Two year,Yes,73.5,1905.7,No
 1396-QWFBJ,Female,0,21,3,Month-to-month,Yes,74.05,1565.7,Yes
@@ -5741,7 +5741,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 4199-QHJNM,Male,1,67,7,Two year,No,102.9,6989.7,No
 8882-TLVRW,Male,0,69,4,Two year,No,39.1,2779.5,No
 5883-GTGVD,Male,0,19,6,Month-to-month,Yes,99.95,1931.75,Yes
-5135-GRQJV,Male,1,72,9,Two year,Yes,114.5,8331.95,No
+5135-GRQJV,Male,1,72,9,Two year,Yes,114.5,,No
 2384-OVPSA,Female,1,38,7,Two year,No,20.2,735.9,No
 1371-WEPDS,Male,1,40,3,One year,No,55.8,2283.3,No
 3580-GICBM,Female,0,61,8,Two year,Yes,24.2,1445.2,No
@@ -5829,7 +5829,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 3161-GETRM,Male,0,34,5,Month-to-month,Yes,90.05,3097,No
 0402-OAMEN,Female,0,72,8,Two year,No,24.45,1709.1,No
 6933-VLYFX,Male,0,31,6,One year,No,59.95,1848.8,No
-6754-WKSHP,Male,0,30,8,One year,No,25.35,723.3,No
+6754-WKSHP,Male,0,30,8,One year,No,25.35,,No
 9846-GKXAS,Female,0,9,4,Month-to-month,Yes,90.8,809.75,Yes
 6017-PPLPX,Male,0,20,2,Month-to-month,Yes,70.45,1470.95,Yes
 4976-LNFVV,Male,1,19,3,Month-to-month,Yes,34.3,577.15,No
@@ -6984,7 +6984,7 @@ customerID,gender,SeniorCitizen,tenure,ServiceCount,Contract,PaperlessBilling,Mo
 8468-FZTOE,Female,0,72,7,Two year,Yes,74.35,5237.4,No
 6633-SYEUS,Female,0,23,5,Month-to-month,No,83.2,2032.3,No
 6447-GORXK,Male,0,31,1,Month-to-month,No,25,789.2,No
-6967-PEJLL,Male,0,37,4,One year,Yes,40.2,1525.35,No
+6967-PEJLL,Male,0,37,4,One year,Yes,40.2,,No
 3976-BWUCK,Female,0,30,6,Month-to-month,Yes,94.1,2804.45,Yes
 5981-ZVXOT,Female,1,35,8,One year,Yes,108.35,3726.15,No
 1684-FLBGS,Female,0,23,6,Month-to-month,Yes,69.5,1652.1,No
