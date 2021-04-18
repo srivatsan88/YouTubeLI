@@ -1,0 +1,3 @@
+project: demostore
+registry: gs://feast_data/demostore.db
+provider: gcp
